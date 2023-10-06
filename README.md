@@ -1,2 +1,2 @@
 # Qualitas-Gaming
-Mock insurance website for frontend practice
+Mock insurance website for frontend development practice
